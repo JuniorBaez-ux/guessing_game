@@ -1,0 +1,1 @@
+This is a basic "Guess the number" game in Rust made to showcase the basics of the language.
